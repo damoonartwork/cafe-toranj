@@ -1,0 +1,6 @@
+{
+  "name": "TORANJ CAFE | کافه ترنج",
+  "description": "منوی دیجیتال لوکس و سفارش آنلاین کافه ترنج - منوی کامل صبحانه، قهوه تخصصی، دسر و نوشیدنی با قابلیت ثبت سفارش آنلاین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
